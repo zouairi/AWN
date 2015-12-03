@@ -1,0 +1,2 @@
+Java API code is subject to the GNU GENERAL PUBLIC (GPL) LICENSE for details  go to http://www.gnu.org/licenses/gpl.html
+--
